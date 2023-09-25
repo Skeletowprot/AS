@@ -1,0 +1,36 @@
+body {
+    background-color: #36a9cd;
+    color: #121212;
+}
+
+header{
+    border-radius: 5px;
+}
+
+h1{
+    background-color: white;
+    color: #36a9cd;
+}
+
+img{
+    border-radius: 6px;
+}
+
+h2 {
+    color: #d6ff00;
+}
+
+h3 {
+    color: white;
+}
+
+footer {
+    background-color: #67c2df;
+    border-radius: 5px;
+}
+
+div {
+    border: 1px solid #d6ff03;
+    border-radius: 5px;
+    background-color: #65c8e7;
+}
